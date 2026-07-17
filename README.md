@@ -8,7 +8,7 @@ I'm passionate about blending technology, analytics, and language processing to 
 
 ## 🚀 My Work
 
-- 🛒 Incoming SDE Summer Intern - Amazon Stores Team
+- 🛒 SDE Intern - Amazon Stores AI Training and AutoPilot Team
 - 📰 Staff Software Engineer — Daily Bruin
 - 💻 Technology Consulting Director — Glitch UCLA
 - 🖥 IT Support — UCLA Social Sciences Center
