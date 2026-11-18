@@ -4,7 +4,7 @@
 
 I'm Anthony, an undergraduate student at UCLA studying Computer Science, Data Science, and Linguistics.
 
-I'm passionate about blending technology, analytics, and language processing to solve impactful issues — especially at the intersection of application development, AI/ML, and infrastructure.
+I'm passionate about blending technology, analytics, and language processing to solve impactful issues — especially at the intersection of AI/ML and infrastructure.
 
 ## My Work
 
